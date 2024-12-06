@@ -4,7 +4,7 @@ AI operation system
 ### packages
 anaconda
 
-ollama,
+ollama, from https://github.com/lingfish/ollama-deb, licensed by Apache-2.0
 
 anaconda,
 
