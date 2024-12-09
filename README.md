@@ -38,6 +38,8 @@ r4q4avjwx at nine.testrun.org
 
 https://github.com/mijofa/mijofa.github.io
 
+https://www.udacity.com/school/artificial-intelligence
+
 ## STEP 0.1 : clone the following code and installed it.
 
 https://github.com/pan2za/github-apt-repos which is forked from https://github.com/X4BNet/github-apt-repos
