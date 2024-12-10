@@ -8,7 +8,7 @@ ollama, from https://github.com/lingfish/ollama-deb, licensed by Apache-2.0
 
 anaconda,
 
-pytorch,
+pytorch, (have done in UBUNTU 24.10, but have not in UBUNTU 24.04 LTS)
 
 tensorflow
 
@@ -27,6 +27,8 @@ Seaborn、
 opencv
 
 rag和langchain的
+
+whisper-asr-service , from https://github.com/pan2za/whisper-asr-webservice, licensed by FIXME.
 
 ## mailme
 
