@@ -2,17 +2,21 @@
 AI operation system
 
 ### packages
-anaconda
+anaconda (Canceled, since anaconda has its own release)
 
 ollama, from https://github.com/lingfish/ollama-deb, licensed by Apache-2.0
 
-anaconda,
 
 pytorch, (have done in UBUNTU 24.10, but have not in UBUNTU 24.04 LTS)
 
+       (ref: https://salsa.debian.org/deeplearning-team)
+
 tensorflow
 
+      (ref: https://salsa.debian.org/deeplearning-team/tensorflow)
+
 Scikit-learn、
+
 
 numpy、
 
