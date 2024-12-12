@@ -6,29 +6,23 @@ anaconda (Canceled, since anaconda has its own release)
 
 ollama, from https://github.com/lingfish/ollama-deb, licensed by Apache-2.0
 
+pytorch, (have done in UBUNTU 24.10, but have not in UBUNTU 24.04 LTS),       (ref: https://salsa.debian.org/deeplearning-team)
 
-pytorch, (have done in UBUNTU 24.10, but have not in UBUNTU 24.04 LTS)
+tensorflow  already availabe  (ref: https://salsa.debian.org/deeplearning-team/tensorflow)
 
-       (ref: https://salsa.debian.org/deeplearning-team)
+Scikit-learn available at https://packages.debian.org/stable/python3-sklearn
 
-tensorflow
+numpy, available at https://packages.debian.org/sid/amd64/python3-numpy/download
 
-      (ref: https://salsa.debian.org/deeplearning-team/tensorflow)
+Keras, available at https://packages.debian.org/bullseye/python3-keras
 
-Scikit-learn、
+Pandas , available at https://packages.debian.org/bullseye/python3-pandas
 
+Matplotlib, available in https://packages.debian.org/buster/python3-matplotlib 
 
-numpy、
+Seaborn , available in https://packages.debian.org/en/stable/python/python3-seaborn
 
-Keras、
-
-Pandas、
-
-Matplotlib、
-
-Seaborn、
-
-opencv , from https://github.com/swenkel/opencv_deb_single_package
+opencv , from https://github.com/swenkel/opencv_deb_single_package , licensed by FIXME
 
 rag和langchain的
 
