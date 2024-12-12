@@ -28,7 +28,7 @@ opencv
 
 rag和langchain的
 
-whisper-asr-service , from https://github.com/pan2za/whisper-asr-webservice, licensed by FIXME.
+whisper-asr-service , from https://github.com/pan2za/whisper-asr-webservice, licensed by MIT.
 
 ## mailme
 
