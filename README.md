@@ -28,7 +28,7 @@ Matplotlib、
 
 Seaborn、
 
-opencv
+opencv , from https://github.com/swenkel/opencv_deb_single_package
 
 rag和langchain的
 
